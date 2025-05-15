@@ -3,7 +3,7 @@ from telethon.sessions import StringSession
 from pyro import validate_session
 
 # ضع القيم الخاصة بك هنا مباشرة
-APP_ID = 20621590  
+APP_ID = 20621590
 # ضع هنا الـ APP_ID الخاص بك كرقم صحيح
 APP_HASH = "a7e91275d681fefd4b2453b158b254ec"  
 # ضع هنا الـ APP_HASH كسلسلة نصية
